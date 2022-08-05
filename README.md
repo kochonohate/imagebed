@@ -2,7 +2,7 @@
 
 jsdelivr加速访问  
 例：https://cdn.jsdelivr.net/gh/kochonohate/imagebed/Pneuma.png
-即：https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径
+即：`https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径`
 
 Updated：2021年12月20号起，该服务不可用！
 目前`jsDelivr`有以下备选站，分别由不同的赞助商提供，目前DNS还没有被污染，使用方法和 `cdn.jsdelivr.net` 相同
